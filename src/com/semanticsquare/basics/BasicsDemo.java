@@ -1,4 +1,4 @@
-class BasicsDemo{
+class BasicsDemo {
     int id = 0;
 
     static void print(){
